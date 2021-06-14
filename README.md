@@ -12,7 +12,6 @@ SCOPE OF THE PROJECT
  • It provides the business with valuable information that the business can use to make decisions about future business strategies.
 
  OBJECTIVE OF THE PROJECT 
- 
 The objectives of this project are
   To examine the applicability of Neural Network approach by developing effective and efficient predictive models for weather analysis for, India. 
  To develop an efficient, reliable, and effective weather forecasting system based on Artificial Neural Network, Decision Tree Algorithm and Random Forest Algorithm. 
@@ -25,7 +24,6 @@ The objectives of this project are
 3. Scattered mists and somewhat shady into modestly shady 
 4. Clear as clear 
 Thus, our aim is to provide accurate result in order to provide correct prediction of weather for future so in critical conditions people can be aware of upcoming natural calamities. 
-
 
 PROPERTIES OF THE PROJECT 
 There are several reasons why weather forecasts are important. They would certainly be missed if they were not there. It is a product of science that impacts the lives of many people. The following is a list of various reasons why weather forecasts are important: 
